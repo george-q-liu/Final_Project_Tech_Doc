@@ -2,7 +2,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Virtual Kathy</h3>
+  <h3 align="center">ENGCMP 1101 Final Project</h3>
 
   <p align="center">
     An AI-Powered Chatbot to Ease Communication Issues!
@@ -70,14 +70,12 @@ Amazon DynamoDB, a fully managed proprietary NoSQL database, was used as the dat
   ```
 
 
-
 <!-- Train The Model -->
-## Train The Model
-train_Vkathy.py — In this file, we will build and train the deep learning model that can classify and identify what the user is asking the bot.
+## Model Trainning
+By running the train_Vkathy.py, we will build and train the deep learning model that can classify and identify what the user is asking the bot.
 
-- Trained-model files can be found in the Trained-model files folder.
+- AI model files can be found in the TrainedModel files folder.
 - The new model needs to be trained once any modification made to the intents file. 
-
 
 
 
