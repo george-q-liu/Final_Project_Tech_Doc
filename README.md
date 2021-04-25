@@ -23,7 +23,7 @@
       </ul>
     </li>
     <li><a href="#database">Database</a></li>
-    <li><a href="#model-trainning">Database</a></li>
+    <li><a href="#model-trainning">AI Models</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
     </li>
@@ -147,6 +147,7 @@ George Liu - georgeliu@pitt.edu
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
+* Helps from Professor Smith-Ferris
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
