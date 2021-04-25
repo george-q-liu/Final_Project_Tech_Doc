@@ -36,7 +36,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Place Holder Text
+This final project will attempt to address the issue I mentioned in my communication issue presentation and extend on that topic. To address the issue caused by inadequate communication between Computer Science TAs and Professors, I have been working to develop this Artificial Intelligence-powered (AI) chatbot using my front-end development skills as a personal project. With this tool, professors can set up their own version of the chatbot and make necessary modifications. Students and UTAs can then use this chatbot to get instant responses from their professors for most of their inquiry. If a question submitted by student is not correctly received or answered by the chatbot, the student can provide feedback on the chatbot to alert their professor that a human response is needed. During this process, students should feel less intimidated by their professor and UTAs will have more opportunities to talk to their professor, thus alleviating the communication issue.  
+
+Because the chatbot need to understand user input (questions in English, a natural language), an AI-powered natural language processing (NLP) engine is needed, and this engine is the most significant part of this project. Presentation of the chatbot on the website is trivial compared to the development of the AI NLP engine. The complete back-end AI NLP engine uses prepared intent inputs to generate several AI model files. The AI NLP engine has been integrated into the website so users can interact with the back-end AI NLP engine using the front-end chatbot application. 
 
 ### Built With
 
