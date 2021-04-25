@@ -5,9 +5,11 @@
   <h3 align="center">ENGCMP 1101 Final Project</h3>
 
   <p align="center">
+    Instructor: Emelyn Catherine Smith-Ferris
+  </p>
+  <p align="center">
     An AI-Powered Chatbot to Ease Communication Issues!
   </p>
-  
 </p>
 
 <!-- TABLE OF CONTENTS -->
