@@ -55,21 +55,21 @@ This web application is build on the foundation of the following major framworks
 <!-- Database -->
 ## Database
 
-Amazon DynamoDB, a fully managed proprietary NoSQL database, was used as the database in this project.
+Amazon DynamoDB, a fully managed proprietary NoSQL database, was used as the database in this project. Professors who are willing to install this chatbot and use it to communicate to their students are also advised to follow steps below to set up questions.
 
-1.Create your own [AWS account](https://aws.amazon.com/)
+1. Create an [AWS account](https://aws.amazon.com/)
 
-2.Create **Question_list** table with **Question ID (String)** as Primary partition key; **Category (String)** as Global Secondary Indexes. 
+2. Create **Question_list** table with **Question ID (String)** as Primary partition key; **Category (String)** as Global Secondary Indexes. 
 
-3.Create **Courses_Schedule** table with **Class Number (String)** as Primary partition key; **Course Number (String)** as Global Secondary Indexes. 
+3. Create **Courses_Schedule** table with **Class Number (String)** as Primary partition key; **Course Number (String)** as Global Secondary Indexes. 
 
-4.Create **Pitt_CS_Faculty** table with **Full Name (String)** as Primary partition key.
+4. Create **Pitt_CS_Faculty** table with **Full Name (String)** as Primary partition key.
 
-5.Create **Pitt_CS_Courses** table with **Course ID (String)** as Primary partition key.
+5. Create **Pitt_CS_Courses** table with **Course ID (String)** as Primary partition key.
 
-6.Create **Add_Questions** table with **Questions (String)** as Primary partition key.
+6. Create **Add_Questions** table with **Questions (String)** as Primary partition key.
 
-7.Run **DynamoDB.py** to upload local data to DynamoDB
+7. Run **DynamoDB.py** to upload local data to DynamoDB
   ```sh
   $ python3 DynamoDB.py
   ```
