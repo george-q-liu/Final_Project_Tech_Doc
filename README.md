@@ -23,6 +23,7 @@
       </ul>
     </li>
     <li><a href="#database">Database</a></li>
+    <li><a href="#model-trainning">Database</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
     </li>
@@ -74,7 +75,7 @@ Amazon DynamoDB, a fully managed proprietary NoSQL database, was used as the dat
   ```
 
 
-<!-- Train The Model -->
+<!-- Model Trainning -->
 ## Model Trainning
 By running the train_Vkathy.py, we will build and train the deep learning model that can classify and identify what the user is asking the bot.
 
